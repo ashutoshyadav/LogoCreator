@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
-  name='logoCreator',
-  packages=['logoCreator'],
+  name='LogoCreator',
+  packages=['LogoCreator'],
   version='0.1',
   license='MIT',
   description='Convert text string to image drawn using characters',
